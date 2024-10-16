@@ -8,6 +8,7 @@ class tesla
 public:
 	tesla()
 	{
+		cout << "new attributes to check change on git";
 		vol = 40;
 		size = 20;
 	}
